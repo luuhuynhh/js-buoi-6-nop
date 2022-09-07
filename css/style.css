@@ -1,0 +1,16 @@
+#bai4 {
+    border: 1px solid gold;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+
+#txtThe {
+    width: 100%;
+    padding: 5px;
+}
+
+#txtThe li {
+    list-style: none;
+    color: white;
+    padding: 3px;
+}
